@@ -1,1 +1,0 @@
-# ibmpartners.github.io
