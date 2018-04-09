@@ -2,77 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ibmpartners.github.io//blog</id>
     <title>Partner Open Community Blog</title>
-    <updated>2017-10-24T06:00:00Z</updated>
+    <updated>2018-03-19T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="https://ibmpartners.github.io//blog"/>
     <subtitle>The best place to stay up-to-date with the latest Partner Open Community news and events.</subtitle>
     <logo>https://ibmpartners.github.io//img/ibm-logo-white.png</logo>
     <rights>Copyright © 2018 IBM Cloud Brazil - Open Community</rights>
     <entry>
-        <title type="html"><![CDATA[New Version 1.0.0]]></title>
-        <id>https://ibmpartners.github.io//blog/2017/10/24/new-version-1.0.0.html</id>
-        <link href="https://ibmpartners.github.io//blog/2017/10/24/new-version-1.0.0.html">
+        <title type="html"><![CDATA[IBM Cloud Private - Versão nova !!]]></title>
+        <id>https://ibmpartners.github.io//blog/2018/03/19/new-version-icp.html</id>
+        <link href="https://ibmpartners.github.io//blog/2018/03/19/new-version-icp.html">
         </link>
-        <updated>2017-10-24T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This blog post will test file name parsing issues when periods are present.</p>
+        <updated>2018-03-19T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Foi lançada hoje a nova versão do IBM Cloud Private, versão 2.1.0.2.
+Saiba mais no [link](<a href="https://www.ibm.com/developerworks/community/blogs/fe25b4ef-ea6a-4d86-a629-6f87ccf4649e/entry/IBM_Cloud_Private_version_2_1_0_2_is_now_available_for_download?la">https://www.ibm.com/developerworks/community/blogs/fe25b4ef-ea6a-4d86-a629-6f87ccf4649e/entry/IBM_Cloud_Private_version_2_1_0_2_is_now_available_for_download?la</a></p>
 ]]></summary>
         <author>
-            <name>Eric Nakagawa</name>
-            <uri>http://twitter.com/ericnakagawa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding RSS Support]]></title>
-        <id>https://ibmpartners.github.io//blog/2017/09/26/adding-rss.html</id>
-        <link href="https://ibmpartners.github.io//blog/2017/09/26/adding-rss.html">
-        </link>
-        <updated>2017-09-26T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a test post.</p>
-<p>A whole bunch of other information.</p>
-]]></summary>
-        <author>
-            <name>Eric Nakagawa</name>
-            <uri>http://twitter.com/ericnakagawa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding RSS Support - RSS Truncation Test]]></title>
-        <id>https://ibmpartners.github.io//blog/2017/09/25/testing-rss.html</id>
-        <link href="https://ibmpartners.github.io//blog/2017/09/25/testing-rss.html">
-        </link>
-        <updated>2017-09-25T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890</p>
-<p>This should be truncated.</p>
-]]></summary>
-        <author>
-            <name>Eric Nakagawa</name>
-            <uri>http://twitter.com/ericnakagawa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Blog Post]]></title>
-        <id>https://ibmpartners.github.io//blog/2017/04/10/blog-post-two.html</id>
-        <link href="https://ibmpartners.github.io//blog/2017/04/10/blog-post-two.html">
-        </link>
-        <updated>2017-04-10T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
-]]></summary>
-        <author>
-            <name>Blog Author</name>
-            <uri>http://twitter.com/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog Title]]></title>
-        <id>https://ibmpartners.github.io//blog/2016/03/11/blog-post.html</id>
-        <link href="https://ibmpartners.github.io//blog/2016/03/11/blog-post.html">
-        </link>
-        <updated>2016-03-11T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
-]]></summary>
-        <author>
-            <name>Blog Author</name>
-            <uri>http://twitter.com/</uri>
+            <name>João Marcelo Barros</name>
+            <uri>http://twitter.com/jbarros</uri>
         </author>
     </entry>
 </feed>
