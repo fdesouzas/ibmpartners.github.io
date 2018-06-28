@@ -20,7 +20,7 @@ const siteConfig = {
   tagline: 'Comunidade para parceiros IBM',
   url: 'https://ibmpartners.github.io/' /* your website url */,
   baseUrl: '/' /* base url for your project */,
-  projectName: '',
+  projectName: 'ibmpartners.github.io',
   headerLinks: [
     {doc: 'icp-ofer-01', label: 'Ofertas'},
     {doc: 'icp-prod-01', label: 'Produtos'},
