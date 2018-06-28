@@ -1,0 +1,45 @@
+{
+  "docs": {
+    "Management & Platform": [
+      "icp-ofer-01", 
+      "icp-ofer-02",
+      "was-ofer-01",
+      "noi-ofer-01",
+      "cog-ofer-01",
+      "dop-ofer-01"
+    ],
+    "Data Science & Business Analytics": [
+      "das01",
+      "bia01"
+    ],
+    "Digital & Business Automation": [
+      "dba01"
+    ],
+    "Hybrid Integration & Development": [
+      "hid01"
+    ],
+    "Unified Governance & Integration": [
+      "uni01",
+      "int01"
+    ]
+  },
+  "docs-prod": {
+    "Management & Platform": [
+      "icp-prod-01"
+    ],
+    "Data Science & Business Analytics": [
+      "das-prod-01",
+      "bia-prod-01"
+    ],
+    "Digital & Business Automation": [
+      "dba-prod-01"
+    ],
+    "Hybrid Integration & Development": [
+      "hid-prod-01"
+    ],
+    "Unified Governance & Integration": [
+      "uni-prod-01",
+      "int-prod-01"
+    ]
+  }
+}
