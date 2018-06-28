@@ -12,3 +12,5 @@ Estou utilizando como teste inicial o [DOCUSAURUS](https://docusaurus.io/), uma 
 - Altere os arquivos dentro do diretorio DOCS que desejar.
 
 - Faça o pull request do arquivo alterado.
+
+[![Build Status](https://travis-ci.org/ibmpartners/ibmpartners.github.io.svg?branch=master)](https://travis-ci.org/ibmpartners/ibmpartners.github.io)
