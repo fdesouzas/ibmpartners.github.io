@@ -1,4 +1,0 @@
-GIT_USER=<GIT_USER> \
-  CURRENT_BRANCH=source \
-  USE_SSH=true \
-  yarn run publish-gh-pages
