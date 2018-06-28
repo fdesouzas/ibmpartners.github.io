@@ -1,5 +1,5 @@
 # Sobre
-Esses são os markdowns e js dos portal localizado em : https://ibmpartners.github.com.
+Os markdowns do projeto ficam no source
 
 # Ferramentas
 Estou utilizando como teste inicial o [DOCUSAURUS](https://docusaurus.io/), uma ferramenta de documentação que gera sites estáticos, um projeto opensource do Facebook.
